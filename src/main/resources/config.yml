@@ -1,0 +1,12 @@
+#Discord Command By RealTrippy (Trippy#2074) [1.7 - 1.18.2]
+#/discordreload to reload config file! [Perm: discord.reload]
+discord:
+  permission: '&cNo Permission'
+  message: '&b&lDiscord &7// &bdiscord.yourserver.de'
+  link: 'https://discord.yourserver.de'
+  hover:
+    enabled: true
+    message:
+      - '&9Click to join the discord server!'
+      - '&bdiscord.yourserver.de'
+  detect-chat-message: true #Send message if "discord" is typed in chat to the executor

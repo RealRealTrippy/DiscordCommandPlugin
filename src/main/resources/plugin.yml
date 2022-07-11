@@ -1,0 +1,10 @@
+name: Discord
+description: Discord Command Plugin
+version: 1.0
+author: RealTrippy
+main: me.trippy.discord.Discord
+commands:
+  discord:
+    description: Discord Command
+  discordreload:
+    description: Reload Discord Plugin Config
